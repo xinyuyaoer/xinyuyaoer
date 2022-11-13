@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 ![xinyuyaoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyuyaoer&show_icons=true&theme=tokyonight)
 
-到目前为止，我的github还只是一个专门为焦糖招新题交作业而服务的主页~~（卑微:sob:）~~
+到目前为止，我的github还只是一个非常不成熟的主页:sob:(暴风哭泣)
 但是我相信不久以后的未来我能将它变得更丰富多彩！！！
