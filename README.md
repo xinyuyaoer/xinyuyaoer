@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 ![Visitor Count](https://profile-counter.glitch.me/xinyuyaoer/count.svg)
 
-**Hello，大家好呀！欢迎来到歆毓的主页:grinning:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyuyaoer&layout=compact)](https://github.com/xinyuyaoer/github-readme-stats)
 
