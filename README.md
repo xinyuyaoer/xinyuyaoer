@@ -1,24 +1,25 @@
-### Hi there 👋
+# Hi, I'm HE YUXIN 👋
 
-<!--
-**xinyuyaoer/xinyuyaoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at the **University of Electronic Science and Technology of China (UESTC)**.
 
-Here are some ideas to get you started:
+Learning, experimenting, and building — one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Activity at a glance
 
-![Visitor Count](https://profile-counter.glitch.me/xinyuyaoer/count.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img alt="GitHub contributions over the past year, recent activity, and monthly trends" src="assets/activity-light.svg" width="100%">
+</picture>
 
+### Latest public code updates
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyuyaoer&layout=compact)](https://github.com/xinyuyaoer/github-readme-stats)
+| Repository | Latest push | Language |
+| :--- | :--- | :--- |
+| [MarsCode-Winter-Camp](https://github.com/xinyuyaoer/MarsCode-Winter-Camp) | 2025-02-14 | — |
+| [InternshipNote](https://github.com/xinyuyaoer/InternshipNote) | 2025-02-10 | — |
+| [business-card](https://github.com/xinyuyaoer/business-card) | 2024-11-20 | CSS |
 
-![xinyuyaoer's GitHub stats](https://github-readme-stats.vercel.app/api?username=xinyuyaoer&show_icons=true&theme=tokyonight)
+<sub>Public, original repositories · sorted by latest push · refreshed daily. Private repository details stay private.</sub>
 
+[Browse public repositories](https://github.com/xinyuyaoer?tab=repositories&amp;type=source) · [Contribution history](https://github.com/xinyuyaoer?tab=overview#year-list-container)
